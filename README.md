@@ -1,2 +1,2 @@
-# Transfer_Learning
-Applied transfer learning to finetune MobileNetV2 model for classifying images. Achieved 10% greater accuracy than baseline model on the test set. 
+# Reinforcement Learning
+Deployed a deep learning model to learn control patterns from visual inputs and applied it to the Flappy birds game. Designed a deep convolutional neural network to recognize the current state of the game and parse that information to evaluate the Q-function of reinforcement learning and achieved super-human performance.
